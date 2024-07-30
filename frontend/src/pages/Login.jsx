@@ -37,6 +37,7 @@ const loginSubmit = async (e) => {
   return (
     <div className=" h-screen bg-slate-600 border-spacing-5 border to-blue-600">
     <Navbar2/>
+    
       <div className=" ml-[300px] mt-[150px] bg-slate-800 p-10 rounded-lg shadow-lg w-[350px] ">
         <h2 className="flex text-3xl font-bold text-white mb-4 text-center">
           L  

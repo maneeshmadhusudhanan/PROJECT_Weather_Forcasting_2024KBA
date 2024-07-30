@@ -50,6 +50,7 @@ const Navbar = () => {
                   fill="currentFill"
                 />
               </svg>
+              RECAST
             </div>
           </span>
         </a>

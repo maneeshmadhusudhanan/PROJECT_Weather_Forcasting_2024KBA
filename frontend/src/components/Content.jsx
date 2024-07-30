@@ -25,7 +25,7 @@ const Content = () => {
         <section className="mb-8">
        
           <p>
-            The application utilizes CSS for styling and layout, ensuring an intuitive and visually appealing user experience. Leveraging JavaScript, the application fetches weather forecast data from various APIs, including OpenWeatherMap, AccuWeather, and The Weather Channel. Through asynchronous HTTP requests, the application collects real-time forecast information from these sources.
+            The application utilizes TailwindCSS for styling and layout, ensuring an intuitive and visually appealing user experience. Leveraging JavaScript, the application fetches weather forecast data from various APIs, including OpenWeatherMap, AccuWeather, and The Weather Channel. Through asynchronous HTTP requests, the application collects real-time forecast information from these sources.
             By combining the power of CSS and JavaScript for dynamic data retrieval and interactivity, the Weather Forecast Aggregator offers users a seamless and feature-rich platform for accessing and comparing weather forecasts from multiple sources. This project demonstrates the practical application of web technologies to address real-world challenges in weather forecasting and information aggregation.
           </p>
         </section>
@@ -43,6 +43,7 @@ const Content = () => {
             <li>Responsive design</li>
             <li>Login page for user</li>
             <li>Store a week's data and display it</li>
+            <li>delete the stored data </li>
           </ul>
         </section>
 
